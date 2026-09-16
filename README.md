@@ -28,3 +28,4 @@ If you find PulsePill useful and would like to support its development:
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/darksider90)
 
 This project and its source code are proprietary. No part of this software may be copied, modified, distributed, reverse-engineered, or used in derivative works without the explicit written permission of the copyright holder.
+![Downloads](https://img.shields.io/github/downloads/TON_PSEUDO/TON_REPO/total)
