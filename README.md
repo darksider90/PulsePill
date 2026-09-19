@@ -15,7 +15,7 @@ A sleek, compact desktop pill widget providing real-time network latency monitor
 ## About the Author
 
 - **Author:** Nicolas DUBOL
-- **Version:** 1.0.0
+- **Version:** 1.0.7
 
 ## License & Intellectual Property
 
