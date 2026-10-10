@@ -2,7 +2,7 @@
 
 A sleek, compact desktop pill widget providing real-time network latency monitoring and hardware status (CPU, RAM, GPU) at a glance.
 
-![PulsePill Preview](2026-10-10 16 44 52.png) 
+![PulsePill Preview](main.png) 
 
 ![PulsePill Preview2](PulsePill2.png)
 
