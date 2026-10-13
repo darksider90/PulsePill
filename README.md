@@ -9,10 +9,15 @@ A compact, always-on-top desktop widget that keeps network availability, network
 ## Features
 
 •	Network availability: Monitor configured hosts with color-coded indicators based on ping response time.
+
 •	Network traffic: Track download and upload usage on a selected network interface, with configurable maximum speeds.
+
 •	Hardware monitoring: View CPU, RAM, and GPU usage in compact circular gauges.
+
 •	GPU selection: Choose a specific graphics adapter or monitor all detected GPUs.
+
 •	Lightweight overlay: A discreet, movable widget designed to stay visible without cluttering the desktop.
+
 •	Saved settings: Server and monitoring preferences are stored in the current user’s profile.
 
 ## About the Author
