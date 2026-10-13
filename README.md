@@ -1,6 +1,6 @@
 # PulsePill
 
-A sleek, compact desktop pill widget providing real-time network latency monitoring and hardware status (CPU, RAM, GPU) at a glance.
+A compact, always-on-top desktop widget that keeps network availability, network traffic, and hardware usage visible at a glance.
 
 ![PulsePill Preview](main.png) 
 
@@ -8,14 +8,17 @@ A sleek, compact desktop pill widget providing real-time network latency monitor
 
 ## Features
 
-- **Network Availability:** Background ping monitoring with intuitive color-coded status beads (green, yellow, red) based on response times.
-- **Hardware Telemetry:** Real-time circular donut gauges displaying CPU, RAM, and GPU load percentages.
-- **Minimal Footprint:** Designed to sit discreetly on your screen without cluttering your workspace.
+•	Network availability: Monitor configured hosts with color-coded indicators based on ping response time.
+•	Network traffic: Track download and upload usage on a selected network interface, with configurable maximum speeds.
+•	Hardware monitoring: View CPU, RAM, and GPU usage in compact circular gauges.
+•	GPU selection: Choose a specific graphics adapter or monitor all detected GPUs.
+•	Lightweight overlay: A discreet, movable widget designed to stay visible without cluttering the desktop.
+•	Saved settings: Server and monitoring preferences are stored in the current user’s profile.
 
 ## About the Author
 
 - **Author:** Nicolas DUBOL
-- **Version:** 1.0.7
+- **Version:** 1.2
 
 ## License & Intellectual Property
 
